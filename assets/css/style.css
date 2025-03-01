@@ -1621,7 +1621,7 @@ body {
 @media (max-width: 576px) {
     .carousel-control-prev-new,
     .carousel-control-next-new {
-        width: 28px;
+        width: 28px;z
         height: 38px;
     }
 
